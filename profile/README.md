@@ -1,6 +1,6 @@
 # Sprunki Digital: The Ultimate Tactical Sound Experience
 
-![Sprunki Digital](https://raw.githubusercontent.com/sprunkiscrunkly/sprunki-digital/refs/heads/main/sprunki-digital.png "Sprunki Digital")
+![Sprunki Digital](https://s.sprunkiscrunkly.com/games/sprunki-digital/sprunki-digital-3.png "Sprunki Digital")
 
 🎮 Ready to play? 1st Version: [Sprunki Digital](https://sprunksters.com/sprunki-digital/ "Sprunki Digital")
 
